@@ -1,0 +1,14 @@
+{
+  "name": "bashprofilepublisher",
+  "version": "1.0.0",
+  "description": "Tiny web app to publish my bash_profile to a gist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmccooyyy",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
